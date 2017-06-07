@@ -1,0 +1,129 @@
+body{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2, h3{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1{
+	background-color: #4aaaa5;
+	color: white;
+	width: 325px;
+	float: left;
+	position: relative;
+	bottom: -22px;
+	padding: 20px;
+}
+.topbox{
+	width: 960px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav{
+	color: #777777;
+	text-decoration: none;
+	width: 210px;
+	position: relative;
+	bottom: -75px;
+	float: right;
+}
+
+a{
+	color: #777777;
+	text-decoration: none;
+	word-spacing: 3px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+p{
+	margin: 10px;
+}
+
+.backgroundbox{
+	clear: both;
+	overflow: auto;
+	/*background-image: url("images/swirl_panel.png");*/
+	background-color: gray;
+}
+
+.marginbox{
+	width: 960px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bigbox {
+	background-color: white;
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	margin-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 650px;
+	float: left;
+	text-align: left;
+}
+
+h2{
+	padding-bottom: 20px;
+	border-bottom: 2px solid #777777;
+}
+
+#picture{
+	margin-right: 10px;
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+.connect{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;	
+	background-color: white;
+	color: #777777;
+	width: 250px;
+	float: left;
+	position: relative;
+	right: -20px;
+    margin-top: 20px;
+	text-align: center;
+}
+h3{
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-bottom: 10px;
+	border-bottom: 2px solid #777777;
+}
+
+
+.foot{
+	clear: both;
+	overflow: auto;
+	background-color: #666666;
+	margin-top: 0;
+	color: white;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	padding: 20px;
+	text-align: center;
+}
+
+
+
+.pic{
+	height: 50px;
+	width: 50px;
+
+}
+
+textarea{
+	width: 100%;
+    height: 150px;
+    resize: none;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;    
+}
+.textbox{
+	width: 100%;
+}
